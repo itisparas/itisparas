@@ -7,7 +7,7 @@
 
 # Hi, I'm Paras Singla 👋
 
-**Software Engineer at IBM** | Ex-Accenture · Ex-Deloitte | India
+**Software Engineer** | Ex-Accenture · Ex-Deloitte | India
 
 I help global enterprises leverage Generative AI, cloud infrastructure, and full-stack engineering to unlock measurable efficiency gains. Available for consulting engagements.
 
