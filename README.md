@@ -17,9 +17,6 @@ I help global enterprises leverage Generative AI, cloud infrastructure, and full
 
 ## 💼 Experience
 
-**Software Engineer** — [IBM](https://ibm.com)
-`April 2026 – Present`
-
 **Packaged App Development Senior Analyst** — [Accenture](https://accenture.com)
 `January 2025 – February 2026 · Gurugram, India`
 
