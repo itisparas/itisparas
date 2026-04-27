@@ -7,7 +7,7 @@
 
 # Hi, I'm Paras Singla 👋
 
-**Software Engineer** | Ex-Accenture · Ex-Deloitte | India
+**Software Engineer @ [HCLTech](https://hcltech.com)** | Ex-Accenture · Ex-Deloitte | India
 
 I help global enterprises leverage Generative AI, cloud infrastructure, and full-stack engineering to unlock measurable efficiency gains. Available for consulting engagements.
 
@@ -17,10 +17,13 @@ I help global enterprises leverage Generative AI, cloud infrastructure, and full
 
 ## 💼 Experience
 
-**Packaged App Development Senior Analyst** — [Accenture](https://accenture.com)
+**Senior Technical Lead** - [HCLTech](https://hcltech.com)  
+`April 2026 - Present · Kolkata, India`
+
+**Packaged App Development Senior Analyst** — [Accenture](https://accenture.com)  
 `January 2025 – February 2026 · Gurugram, India`
 
-**Analyst** — [Deloitte USI](https://deloitte.com)
+**Analyst** — [Deloitte USI](https://deloitte.com)  
 `January 2021 – January 2025 · 4 yrs · Hyderabad, India`
 
 ---
